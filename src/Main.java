@@ -15,6 +15,7 @@ public class Main {
         System.out.println(pb.get("Pavel"));
     }
 
+    
     private static void chkText(){
 
         String line = "Проверка - это практически то же самое \n" +
